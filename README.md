@@ -20,3 +20,9 @@ This project detects whether a news article is Real or Fake using an LSTM neural
 - tokenizer.pkl
 - Fake.csv
 - True.csv
+
+- ## Dataset
+- This project uses the Fake and Real News Dataset from Kaggle.
+
+- Dataset Link:
+- https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
