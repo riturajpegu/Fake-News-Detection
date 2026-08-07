@@ -26,3 +26,8 @@ This project detects whether a news article is Real or Fake using an LSTM neural
 
 - Dataset Link:
 - https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+# Fake News Detection using LSTM
+
+## 🌐 Live Demo
+https://fake-news-detection-2-2oj0.onrender.com/
